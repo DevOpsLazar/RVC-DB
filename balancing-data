@@ -1,0 +1,29 @@
+# Weapon Name
+DC 15-A
+# Weapon Damage
+20
+# Weapon Fire Rate
+2.0
+# Weapon Reload Speed
+2.0
+# Weapon Ammo
+300
+# Weapon Bullet Speed
+300
+# Weapon Spray Radius
+3.0
+
+# Weapon Name
+DC 15-S
+# Weapon Damage
+400
+# Weapon Fire Rate
+1.0
+# Weapon Reload Speed
+10.0
+# Weapon Ammo
+1
+# Weapon Bullet Speed
+1000
+# Weapon Spray Radius
+0.2
